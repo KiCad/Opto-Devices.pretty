@@ -1,6 +1,7 @@
 (module PhotoTransistor_SMD-SmartDIL (layer F.Cu) (tedit 57EFC286)
   (descr "PhotoTransistor, plastic SMD SmatDIL")
   (tags "PhotoTransistor plastic SMD SmatDIL")
+  (attr smd)
   (fp_text reference REF** (at 0 2.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
